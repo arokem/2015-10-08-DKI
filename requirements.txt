@@ -1,2 +1,2 @@
 nibabel
-git+git://github.com/nipy/dipy.git
+https://github.com/nipy/dipy/tarball/master
