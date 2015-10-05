@@ -1,0 +1,2 @@
+nibabel
+git+git://github.com/nipy/dipy.git
